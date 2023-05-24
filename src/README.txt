@@ -1,0 +1,1 @@
+aplikasi ini adalah aplikasi semacam kasir untuk menghitung total uang pengeluaran dan uang kembalian pengguna
